@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am highly motivated and eager to learn.<br> My passion for design and technology is evident in my academic projects and personal
 endeavors.<br> I am proficient in various design software and programming languages,<br> and I am eager to contribute my skills and
 enthusiasm to a dynamic and challenging work environment.
