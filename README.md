@@ -1,6 +1,6 @@
 # About Me:
 I am highly motivated and eager to learn.<br>My passion for design and technology is evident in my academic projects and personal endeavors.<br>I am proficient in various design software and programming languages.<br>I am eager to contribute my skills and enthusiasm to a dynamic and challenging work environment.<br><br>  I’m currently working on my startup project<br>  I’m looking for help with web development
- 
+
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@valerimirzoyan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MirzoyanValeri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valeri-mirzoyan/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Search-Poseidon/)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22089621/valeri-mirzoyan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:valerimirzoyan2004@gmail.com)
